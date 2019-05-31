@@ -51,7 +51,7 @@ npm i reference-repository
 
 ## Changelog
 
-https://github.com/tiagoporto/reference-repository/releases
+[Versions changelog](https://github.com/tiagoporto/reference-repository/releases)
 
 ## Donating
 
