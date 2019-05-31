@@ -6,8 +6,10 @@
 
 
 [![Release](https://img.shields.io/npm/v/reference-repository.svg?style=flat-square&label=release)](https://github.com/tiagoporto/reference-repository/releases)
+[![Node](https://img.shields.io/node/v/reference-repository.svg?style=flat-square)](https://www.npmjs.com/package/reference-repository)
 [![Downloads](https://img.shields.io/npm/dt/reference-repository.svg?style=flat-square)](https://www.npmjs.com/package/reference-repository)
 [![install size](https://packagephobia.now.sh/badge?p=reference-repository)](https://packagephobia.now.sh/result?p=reference-repository)
+
 ![Web Compnent](https://img.shields.io/badge/-Web%20Component-gray.svg?style=flat&logo=webcomponents.org&logoColor=white)
 ![npm type definitions](https://img.shields.io/npm/types/reference-repository.svg?style=flat-square)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-yellow.svg?style=flat-square)](http://standardjs.com)
@@ -44,7 +46,6 @@ npm i reference-repository
 
 
 
-
 ## Contributing
 
 
@@ -56,7 +57,7 @@ This project is developed in my free time, donations are welcome.
 
 
 
-[![Donate](https://img.shields.io/badge/donate-buy%20me%20a%20beer-orange.svg)](https://tiagoporto.github.io/donation-page)
+[![Donate](https://img.shields.io/badge/donate-buy%20me%20a%20beer-eabb04.svg)](https://tiagoporto.github.io/donation-page)
 
 
 ## License
