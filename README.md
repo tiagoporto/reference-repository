@@ -9,8 +9,9 @@
 [![Node](https://img.shields.io/node/v/reference-repository.svg?style=flat-square)](https://www.npmjs.com/package/reference-repository)
 [![Downloads](https://img.shields.io/npm/dt/reference-repository.svg?style=flat-square)](https://www.npmjs.com/package/reference-repository)
 [![install size](https://packagephobia.now.sh/badge?p=reference-repository)](https://packagephobia.now.sh/result?p=reference-repository)
+[![Versions changelog](https://img.shields.io/badge/-changelog-grey.svg?style=flat-square)](https://github.com/tiagoporto/reference-repository/releases)
 
-![Web Compnent](https://img.shields.io/badge/-Web%20Component-gray.svg?style=flat&logo=webcomponents.org&logoColor=white)
+![Web Compnent](https://img.shields.io/badge/-Web%20Component-gray.svg?style=flat-square&logo=webcomponents.org&logoColor=white)
 ![npm type definitions](https://img.shields.io/npm/types/reference-repository.svg?style=flat-square)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-yellow.svg?style=flat-square)](http://standardjs.com)
 [![License](https://img.shields.io/github/license/tiagoporto/reference-repository.svg?style=flat-square)](https://raw.githubusercontent.com/tiagoporto/reference-repository/master/LICENSE)
@@ -49,17 +50,13 @@ npm i reference-repository
 
 [How to contribute](https://github.com/tiagoporto/reference-repository/blob/master/CONTRIBUTING.md).
 
-## Changelog
 
-[Versions changelog](https://github.com/tiagoporto/reference-repository/releases)
 
 ## Donating
 
 This project is developed in my free time, donations are welcome.
 
-
-
-[![Donate](https://img.shields.io/badge/donate-buy%20me%20a%20beer-eabb04.svg)](https://tiagoporto.github.io/donation-page)
+[![Donate](https://img.shields.io/badge/-🍺%20buy%20me%20a%20beer-eabb04.svg?style=for-the-badge)](https://tiagoporto.github.io/donation-page)
 
 
 ## License
