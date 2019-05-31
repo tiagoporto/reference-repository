@@ -4,23 +4,24 @@
   <code>LIKED ? <a href="https://github.com/tiagoporto/reference-repository/stargazers">⭐</a> : <a href="https://github.com/tiagoporto/reference-repository/issues">😞</a></code>
 </p>
 
+&lt;style type="text/css">img[alt="Web Component"]{margin-bottom: -10px;}</style>
 
 [![Release][badge-release]](https://github.com/tiagoporto/reference-repository/releases)
 [![Versions changelog][badge-changelog]](https://github.com/tiagoporto/reference-repository/releases)
 
 [![Node][badge-node-version]](https://www.npmjs.com/package/reference-repository)
-[![Downloads](https://img.shields.io/npm/dt/reference-repository.svg?style=flat-square)](https://www.npmjs.com/package/reference-repository)
+[![Downloads][badge-downloads]](https://www.npmjs.com/package/reference-repository)
 [![install size](https://packagephobia.now.sh/badge?p=reference-repository)](https://packagephobia.now.sh/result?p=reference-repository)
 
 
 ![Web Component][badge-web-component]
 ![type definitions][badge-definitions]
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-yellow.svg?style=flat-square)](http://standardjs.com)
+[![js-standard-style][badge-code-style]](http://standardjs.com)
 
-[![License](https://img.shields.io/github/license/tiagoporto/reference-repository.svg?style=flat-square)](https://raw.githubusercontent.com/tiagoporto/reference-repository/master/LICENSE)
+[![License][badge-license]](https://raw.githubusercontent.com/tiagoporto/reference-repository/master/LICENSE)
 
-[![Build Status](https://img.shields.io/travis/com/tiagoporto/reference-repository/master.svg?label=tests&logo=travis&style=flat-square)](https://travis-ci.com/tiagoporto/reference-repository)
-[![Coverage Status](https://img.shields.io/coveralls/tiagoporto/reference-repository.svg?style=flat-square)](https://coveralls.io/github/tiagoporto/reference-repository)
+[![Build Status][badge-build]](https://travis-ci.com/tiagoporto/reference-repository)
+[![Coverage Status][badge-coverage]](https://coveralls.io/github/tiagoporto/reference-repository)
 [![Mutation testing cover](https://badge.stryker-mutator.io/github.com/tiagoporto/reference-repository/master)](https://stryker-mutator.github.io)
 [![Inline docs](http://inch-ci.org/github/tiagoporto/reference-repository.svg?branch=master&style=flat-square)](http://inch-ci.org/github/tiagoporto/reference-repository)
 [![Dependencies Status](https://img.shields.io/david/tiagoporto/reference-repository.svg?style=flat-square)](https://david-dm.org/tiagoporto/reference-repository)
@@ -31,6 +32,11 @@
 Badges link
 -->
 
+[badge-coverage]:https://img.shields.io/coveralls/tiagoporto/reference-repository.svg?style=flat-square
+[badge-build]:https://img.shields.io/travis/com/tiagoporto/reference-repository/master.svg?label=tests&logo=travis&style=flat-square
+[badge-license]:https://img.shields.io/github/license/tiagoporto/reference-repository.svg?style=flat-square
+[badge-code-style]:https://img.shields.io/badge/code%20style-standard-yellow.svg?style=flat-square
+[badge-downloads]:https://img.shields.io/npm/dt/reference-repository.svg?style=flat-square
 [badge-website]:https://img.shields.io/website/https/tiagoporto.github.io/reference-repository.svg?down_color=lightgrey&down_message=offline&style=flat-square&up_message=online
 [badge-definitions]:https://img.shields.io/npm/types/reference-repository.svg?style=flat-square
 [badge-node-version]:https://img.shields.io/node/v/reference-repository.svg?style=flat-square
