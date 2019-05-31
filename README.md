@@ -27,7 +27,6 @@
 
 > Project description.
 
-
 The tool can be accessed on [tiagoporto.github.io/reference-repository](http://tiagoporto.github.io/reference-repository).
 
 *Read this in other languages: English, [Português(Brasil)](README.md)*
@@ -48,8 +47,11 @@ npm i reference-repository
 
 ## Contributing
 
-
 [How to contribute](https://github.com/tiagoporto/reference-repository/blob/master/CONTRIBUTING.md).
+
+## Changelog
+
+https://github.com/tiagoporto/reference-repository/releases
 
 ## Donating
 
