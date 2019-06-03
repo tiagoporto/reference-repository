@@ -1,4 +1,4 @@
-# Reference Repository ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
+# Reference Repository ![Open Source Love](https://github.com/ellerbrock/open-source-badges/blob/master/badges/open-source-v3/open-source.svg)
 
 <p align="right">
   <code>LIKED ? <a href="https://github.com/tiagoporto/reference-repository/stargazers">⭐</a> : <a href="https://github.com/tiagoporto/reference-repository/issues">😞</a></code>
