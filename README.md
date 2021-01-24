@@ -82,4 +82,8 @@ This project is developed in my free time, donations are welcome.
 [![Donate](https://img.shields.io/badge/-🍺%20buy%20me%20a%20beer-eabb04.svg?style=for-the-badge)](https://tiagoporto.github.io/donation-page)
 
 
-<p align="center"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></p> 
+<p align="center"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></p>
+
+## License
+
+Reference Repository is released under the terms of the [MIT](LICENSE).
