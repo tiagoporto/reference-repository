@@ -1,4 +1,4 @@
-# Reference Repository ![Open Source Love](https://github.com/ellerbrock/open-source-badges/blob/master/badges/open-source-v3/open-source.svg)
+# Reference Repository ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg)
 
 <p align="right">
   <code>LIKED ? <a href="https://github.com/tiagoporto/reference-repository/stargazers">⭐</a> : <a href="https://github.com/tiagoporto/reference-repository/issues">😞</a></code>
@@ -16,7 +16,7 @@
 ![type definitions][badge-definitions]
 [![js-standard-style][badge-code-style]](http://standardjs.com)
 
-[![License][badge-license]](https://raw.githubusercontent.com/tiagoporto/reference-repository/master/LICENSE)
+[![License][badge-license]](https://raw.githubusercontent.com/tiagoporto/reference-repository/main/LICENSE)
 
 [![Build Status][badge-build]](https://travis-ci.com/tiagoporto/reference-repository)
 [![Coverage Status][badge-coverage]](https://coveralls.io/github/tiagoporto/reference-repository)
@@ -29,15 +29,15 @@
 <!--
 Badges image
 -->
-[badge-mutation]:https://badge.stryker-mutator.io/github.com/tiagoporto/reference-repository/master
+[badge-mutation]:https://badge.stryker-mutator.io/github.com/tiagoporto/reference-repository/main
 [badge-install-size]:https://packagephobia.now.sh/badge?p=reference-repository
-[badge-inch]:http://inch-ci.org/github/tiagoporto/reference-repository.svg?branch=master&style=flat-square
+[badge-inch]:http://inch-ci.org/github/tiagoporto/reference-repository.svg?branch=main&style=flat-square
 
 [badge-dependencies]:https://img.shields.io/david/tiagoporto/reference-repository.svg?style=flat-square
 [badge-dev-dependencies]:https://img.shields.io/david/dev/tiagoporto/reference-repository.svg?style=flat-square
 
 [badge-coverage]:https://img.shields.io/coveralls/tiagoporto/reference-repository.svg?style=flat-square
-[badge-build]:https://img.shields.io/travis/com/tiagoporto/reference-repository/master.svg?label=checks&logo=travis&style=flat-square
+[badge-build]:https://img.shields.io/travis/com/tiagoporto/reference-repository/main.svg?label=checks&logo=travis&style=flat-square
 [badge-license]:https://img.shields.io/github/license/tiagoporto/reference-repository.svg?style=flat-square
 [badge-code-style]:https://img.shields.io/badge/code%20style-standard-yellow.svg?style=flat-square
 [badge-downloads]:https://img.shields.io/npm/dt/reference-repository.svg?style=flat-square
@@ -71,7 +71,7 @@ npm i reference-repository
 
 ## Contributing
 
-[How to contribute](https://github.com/tiagoporto/reference-repository/blob/master/CONTRIBUTING.md).
+[How to contribute](https://github.com/tiagoporto/reference-repository/blob/main/CONTRIBUTING.md).
 
 
 
