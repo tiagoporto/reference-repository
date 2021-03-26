@@ -1,14 +1,14 @@
 language: node_js
 node_js:
-  - "lts/*"
+  - 'lts/*'
 
 stages:
   - Checks
   - name: Tests
     if: NOT branch = main
-  - name: "Tests and Reports"
+  - name: 'Tests and Reports'
     if: branch = main
-  - name: "Deploy gh-pages"
+  - name: 'Deploy gh-pages'
     if: branch = main AND NOT type = pull_request
 
 before_deploy: npm run build:site
@@ -34,7 +34,7 @@ jobs:
     - script: npm run prepublishOnly
       name: Check Prepublish
 
-    - stage: "Tests and Reports"
+    - stage: 'Tests and Reports'
       script: npm run test:coverage && npm run coveralls
       name: Run Unit Tests, generate coverage and publish to coveralls
 
