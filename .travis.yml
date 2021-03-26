@@ -16,7 +16,7 @@ stages:
 jobs:
   include:
     - stage: Checks
-    - script: npm run check-links
+      script: npm run check-links
       name: Check Doc links
 
     - script: npm run check-urls
