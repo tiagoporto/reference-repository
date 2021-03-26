@@ -18,10 +18,12 @@
   "license": "MIT",
   "scripts": {
     "start": "",
+    "check-links": "remark --frail --use validate-links .",
+    "check-urls": "remark --frail --use remark-lint-no-dead-urls .",
     "lint": "eslint --ext js,jsx,ts,tsx,md,mdx ./src --max-warnings 0",
     "lint:fix": "npm run lint -- --fix",
     "checks": "npm run check-formatting && npm run check-typing && npm run lint",
-    "check-typing": "tsc --noEmit",
+    "check-typing": "tsc --project tsconfig.json",
     "test": "jest",
     "test:watch": "npm test -- --watch",
     "test:mutation": "stryker run --reporters html",
@@ -36,12 +38,20 @@
     "deploy": "npm run build:site && gh-pages -d site",
     "prepublishOnly": "rm -rf dist && rollup -c && npm run types",
     "postpublish": "npm run tag && git push --tags",
-    "tag": "git tag v$npm_package_version"
+    "tag": "git tag v$npm_package_version",
+    "prepare": "husky install",
+    "pre-commit": "lint-staged"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1",
-    "husky": "^1.3.1",
-    "jest": "^24.1.0"
+    "eslint": "^7.22.0",
+    "gh-pages": "^3.1.0",
+    "husky": "^5.2.0",
+    "jest": "^26.6.3",
+    "lint-staged": "^10.5.4",
+    "prettier": "^2.2.1",
+    "remark-cli": "^9.0.0",
+    "remark-lint-no-dead-urls": "^1.1.0",
+    "remark-validate-links": "^10.0.4"
   },
   "husky": {
     "hooks": {
