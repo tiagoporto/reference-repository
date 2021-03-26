@@ -8,10 +8,10 @@ stages:
     if: NOT branch = main
   - name: 'Tests and Reports'
     if: branch = main
-  - name: 'Deploy gh-pages'
-    if: branch = main AND NOT type = pull_request
+  # - name: 'Deploy gh-pages'
+  #   if: branch = main AND NOT type = pull_request
 
-before_deploy: npm run build:site
+# before_deploy: npm run build:site
 
 jobs:
   include:
