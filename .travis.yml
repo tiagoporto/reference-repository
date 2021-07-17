@@ -63,6 +63,6 @@ jobs:
     #   deploy:
     #     provider: pages
     #     local_dir: website
-    #     skip_cleanup: true
+    #     cleanup: true
     #     github_token: $GITHUB_TOKEN
     #     keep_history: true
