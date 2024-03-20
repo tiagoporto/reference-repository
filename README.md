@@ -59,7 +59,7 @@ npm i reference-repository
 
 ## Contributing
 
-[How to contribute](https://github.com/tiagoporto/reference-repository/blob/main/CONTRIBUTING.md).
+[How to contribute](https://github.com/tiagoporto/.github/blob/main/CONTRIBUTING.md).
 
 ## Donating
 
