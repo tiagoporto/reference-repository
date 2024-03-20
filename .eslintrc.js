@@ -5,7 +5,7 @@ const jsConfig = {
     'plugin:promise/recommended',
     'plugin:import/errors',
     'plugin:import/warnings',
-    'plugin:testing-library/recommended',
+    'plugin:testing-library/dom',
     'plugin:jest/all',
     'plugin:jest-dom/recommended',
     'plugin:eslint-comments/recommended',
