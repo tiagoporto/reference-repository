@@ -4,6 +4,10 @@
   "description": "",
   "homepage": "http://tiagoporto.github.io/reference-repository",
   "keywords": [],
+  "engines": {
+    "node": ">= 20",
+    "npm": ">= 10"
+  },
   "author": {
     "name": "Tiago Porto",
     "url": "http://tiagoporto.com"
